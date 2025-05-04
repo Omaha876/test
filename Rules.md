@@ -38,9 +38,9 @@ We generally define "cost" as what you paid for the item. A more thorough defini
 -If your build qualifies as a full build, you may list or sell it for no more than its cost +$200 of profit/build fees. Exception - legitmate business entities may continue pricing via your regular business channels as you wish, but any listings here must conform to the cost +$200 cap.
 ```
 When listing or selling, reasonable shipping costs as well as PayPal G&S or similar transaction fees (not platform/listing fees, i.e. eBay) can be added to your cost, as these are commonly incurred when listing in our National marketplace or on Reddit HWS. Pirateship is a great resource for discounted shipping.
-<--- POST BREAK HERE --->
-This profit can be used to recoup gas, fulfill a finders fee, cover your time and labor, etc., and must be included in your cost breakdown.
 
+This profit can be used to recoup gas, fulfill a finders fee, cover your time and labor, etc., and must be included in your cost breakdown.
+<--- POST BREAK HERE --->
 2. **Violating, or encouraging the violation of Micro Center policies is strictly prohibited.** This includes selling vouchers or line spots, or abusing Micro Center's return policies.
 
 3. **Be kind and respectful.** No hate speech, no threats of violence, and no doxxing (the revealing of *private*, identifying information about someone in a public, online setting, including threats towards or revealing information to someone's IRL friends, family, or employer without their consent.) Also, this is an English-speaking Discord with English-speaking staff, so please stick to English.
@@ -52,7 +52,7 @@ This profit can be used to recoup gas, fulfill a finders fee, cover your time an
 6. **Spreading false information __maliciously__ is prohibited.** We will not accept users trying to misguide others, including false reports about stock.
 
 7. **Links with embedded referral codes, QR codes, or links to crowdfunding (GoFundMe, etc.) are not allowed.** This is mostly to prevent bot spam and other phishing attacks.
-
+<--- POST BREAK HERE --->
 8. **Advertising other Discords, whether in the server or in DMs, without the permission of an admin is forbidden.** We censor Discord invites. Please DM <@575252669443211264> if you would like to request permission to share a particular server.
 
 9. **Don't ask questions about stock in stock announcements channels.** Messages in stock announcement channels are intended to *provide* information about what's in stock at the store. Questions about stock can be directed to specific store general-chat channels.
