@@ -70,4 +70,4 @@ This profit can be used to recoup gas, fulfill a finders fee, cover your time an
 **Strongly consider enabling 2FA on your Discord account, if you haven't already.** Phishing attacks unfortunately do happen, and should you accidentally click on a malicious link, 2FA will save you and your account from compromise.
 
 **We are not responsible for information shared in DMs.** There can be times when people DM you regarding information in stores, or regarding marketplace interactions or other content. Use your best judgement when clicking on links or negotiating deals. This does not mean that our rules about hate speech and kindness and threats do not apply in DMs - they most certainly do.
-Changelog: https://github.com/UMCFS/Rules/commits/main/CommunityRules.md
+Changelog: <https://github.com/UMCFS/Rules/commits/main/CommunityRules.md>
