@@ -38,13 +38,13 @@ We generally define "cost" as what you paid for the item. A more thorough defini
 -If your build qualifies as a full build, you may list or sell it for no more than its cost +$200 of profit/build fees. Exception - legitmate business entities may continue pricing via your regular business channels as you wish, but any listings here must conform to the cost +$200 cap.
 ```
 When listing or selling, reasonable shipping costs as well as PayPal G&S or similar transaction fees (not platform/listing fees, i.e. eBay) can be added to your cost, as these are commonly incurred when listing in our National marketplace or on Reddit HWS. Pirateship is a great resource for discounted shipping.
-
+<--- POST BREAK HERE --->
 This profit can be used to recoup gas, fulfill a finders fee, cover your time and labor, etc., and must be included in your cost breakdown.
 
 2. **Violating, or encouraging the violation of Micro Center policies is strictly prohibited.** This includes selling vouchers or line spots, or abusing Micro Center's return policies.
 
 3. **Be kind and respectful.** No hate speech, no threats of violence, and no doxxing (the revealing of *private*, identifying information about someone in a public, online setting, including threats towards or revealing information to someone's IRL friends, family, or employer without their consent.) Also, this is an English-speaking Discord with English-speaking staff, so please stick to English.
-<--- POST BREAK HERE --->
+
 4. **No political discussion.** Except in <#1092483332169793638> (18+ Adult Swim). If you're Active Member status ("Green" / Level 10), please see <#1092490901357600820> for more information on how to enroll in this channel.
 
 5. **No spam or NSFW in non-age restricted channels.** Violations will result in warnings and/or mutes.
